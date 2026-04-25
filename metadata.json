@@ -1,0 +1,6 @@
+{
+  "name": "Jadwal Kegiatan Bulanan",
+  "description": "Website jadwal kegiatan bulanan yang mengambil data dari Google Spreadsheet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
